@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Rocio-hub/Portfolio/static/css/main.8aac3976.css",
+    "main.js": "/Rocio-hub/Portfolio/static/js/main.b5282cfd.js",
+    "static/media/mypicture3.png": "/Rocio-hub/Portfolio/static/media/mypicture3.aff72808d634e81722ef.png",
+    "static/media/uml.png": "/Rocio-hub/Portfolio/static/media/uml.9c1a4d900333dea5f9a9.png",
+    "static/media/angular.png": "/Rocio-hub/Portfolio/static/media/angular.b6d2a9dec3e43e0ffb95.png",
+    "static/media/javafx.png": "/Rocio-hub/Portfolio/static/media/javafx.31b392db0c9e102a6b86.png",
+    "static/media/css.png": "/Rocio-hub/Portfolio/static/media/css.4e67641bb68b658d9b2b.png",
+    "static/media/trello.png": "/Rocio-hub/Portfolio/static/media/trello.a94b0a6d38d60223cfde.png",
+    "static/media/sql.png": "/Rocio-hub/Portfolio/static/media/sql.e8e81f819030aa6b3368.png",
+    "static/media/github.png": "/Rocio-hub/Portfolio/static/media/github.1b136cd11de4e9b17d88.png",
+    "static/media/react.png": "/Rocio-hub/Portfolio/static/media/react.fd373eec9017cf21b26d.png",
+    "static/media/javascript.png": "/Rocio-hub/Portfolio/static/media/javascript.26cc380eedcd3ea3d29a.png",
+    "static/media/address.png": "/Rocio-hub/Portfolio/static/media/address.6e4cd2a59185ad769622.png",
+    "static/media/bootstrap.png": "/Rocio-hub/Portfolio/static/media/bootstrap.e94a80856cc0cb492938.png",
+    "static/media/csharp.png": "/Rocio-hub/Portfolio/static/media/csharp.7f58ab59750a276a404e.png",
+    "static/media/html.png": "/Rocio-hub/Portfolio/static/media/html.33745eadd572612bdf11.png",
+    "static/media/scrumwise.png": "/Rocio-hub/Portfolio/static/media/scrumwise.84eed3d1e13f2582a102.png",
+    "static/media/kotlin.png": "/Rocio-hub/Portfolio/static/media/kotlin.6cc17634bf6dbe8dba80.png",
+    "static/media/agile.png": "/Rocio-hub/Portfolio/static/media/agile.17134802387ad70dc5c0.png",
+    "index.html": "/Rocio-hub/Portfolio/index.html",
+    "main.8aac3976.css.map": "/Rocio-hub/Portfolio/static/css/main.8aac3976.css.map",
+    "main.b5282cfd.js.map": "/Rocio-hub/Portfolio/static/js/main.b5282cfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8aac3976.css",
+    "static/js/main.b5282cfd.js"
+  ]
+}
